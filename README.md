@@ -27,7 +27,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
-  
+  <img src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_-768x768.png" height="40" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://masteringjs.io/assets/images/vue/vue.png" height="40" alt="vue logo" />
 </div>
 
 ###
